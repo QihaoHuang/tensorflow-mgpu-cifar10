@@ -17,7 +17,7 @@ tf.test.gpu_device_name()
 
 ## running
 ```shell
-git clone git@github.com:qihao96/tensorflow-mgpu-cifar10.git
+git clone git@github.com:QihaoHuang/tensorflow-mgpu-cifar10.git
 cd tensorflow-mgpu-cifar10
 
 export CUDA_VISIBLE_DEVICES=0,1
